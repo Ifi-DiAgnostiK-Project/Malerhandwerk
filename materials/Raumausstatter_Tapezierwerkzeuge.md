@@ -6,7 +6,7 @@ version:  0.1.4
 language: de
 narrator: Deutsch Male
 
-edit: true
+edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/Raumausstatter_Tapezierwerkzeuge.md
 date: 2026-01-28
 
 icon: ../assets/img/Logo_234px.png

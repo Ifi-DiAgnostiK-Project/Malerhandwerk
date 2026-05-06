@@ -6,7 +6,7 @@ version:  0.1.0
 language: de
 narrator: Deutsch Male
 
-edit: true
+edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_tapetensymbole_lektion.md
 date: 2026-04-27
 
 icon: ../assets/img/Logo_234px.png

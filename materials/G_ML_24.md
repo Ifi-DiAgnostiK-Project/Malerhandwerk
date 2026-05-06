@@ -7,7 +7,7 @@ version:   0.0.11
 language:  de
 narrator:  Deutsch Male
 
-edit:      true
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/G_ML_24.md
 date:      2025-08-01
 
 title:     Grundkurs Maler/Lackierer G-ML-24

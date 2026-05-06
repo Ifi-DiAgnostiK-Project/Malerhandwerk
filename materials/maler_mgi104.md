@@ -10,7 +10,7 @@ language: de
 
 narrator: Deutsch Female
 
-edit: true
+edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_mgi104.md
 date: 2025-12-11
 icon: ../assets/img/Logo_234px.png
 logo: ../assets/img/bauwerk_schichten.jpg

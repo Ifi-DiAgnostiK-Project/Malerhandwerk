@@ -10,7 +10,7 @@ language: de
 
 narrator: Deutsch Male
 
-edit: true
+edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_untertapete.md
 date: 2025-11-27
 icon: ../assets/img/Logo_234px.png
 logo: ../assets/img/tapete_eimer.jpg

@@ -6,7 +6,7 @@ version:  0.0.4
 language: de
 narrator: Deutsch Female
 
-edit: true
+edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_tapetensymbole.md
 date: 2026-01-19
 
 icon: ../assets/img/Logo_234px.png
