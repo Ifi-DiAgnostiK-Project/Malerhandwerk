@@ -1,36 +1,35 @@
 <!--
+author:    DiAgnostiK-Coach
+email:     info@gkz-ev.de
+date:      2026-04-27
+version:   0.1.0
 
-author:   DiAgnostiK-Coach
-email:    info@gkz-ev.de
-version:  0.1.0
-language: de
-narrator: Deutsch Male
+narrator:  Deutsch Male
+language:  de
 
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_tapezierwerkzeuge_lektion.md
-date: 2026-04-27
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_tapezierwerkzeuge_lektion.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/maler_werkzeug_tapetenkurs.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/maler_werkzeug_tapetenkurs.jpg
 
 attribute: Logo-Bild: HWK Dresden, Florian Riefling
 
-comment:  Lerneinheit – Tapezierwerkzeuge: Überblick über alle wichtigen Werkzeuge für das Tapezieren
+comment:   Lerneinheit – Tapezierwerkzeuge: Überblick über alle wichtigen Werkzeuge für das Tapezieren
 
-title: Tapezierwerkzeuge – Was brauche ich zum Tapezieren?
+title:     Tapezierwerkzeuge – Was brauche ich zum Tapezieren?
 
-tags:   Maler,
-        Lackierer,
-        Raumausstatter,
-        Tapezieren,
-        Tapezierwerkzeuge,
-        Werkzeuge,
-        Grundlagen
+tags:      Maler,
+           Lackierer,
+           Raumausstatter,
+           Tapezieren,
+           Tapezierwerkzeuge,
+           Werkzeuge,
+           Grundlagen
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Tapezierwerkzeuge – Was brauche ich zum Tapezieren? 🖌️

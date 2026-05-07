@@ -1,37 +1,36 @@
 <!--
+author:    DiAgnostiK-Coach
+email:     info@gkz-ev.de
+version:   0.1.0
+date:      2026-04-27
 
-author:   DiAgnostiK-Coach
-email:    info@gkz-ev.de
-version:  0.1.0
-language: de
-narrator: Deutsch Male
+narrator:  Deutsch Male
+language:  de
 
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_gestaltungstechniken.md
-date: 2026-04-27
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_gestaltungstechniken.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/maler_mini.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/maler_mini.jpg
 
 attribute: Logo-Bild: Pixabay, Alexas-Fotos
 
-comment:  Lerneinheit – Gestaltungstechniken: Farbflächen, Strichzieher, Wickeltechnik und Sockelgestaltung
+comment:   Lerneinheit – Gestaltungstechniken: Farbflächen, Strichzieher, Wickeltechnik und Sockelgestaltung
 
-title: Gestaltungstechniken im Malerhandwerk – Farbflächen, Linien und Wickeltechnik
+title:     Gestaltungstechniken im Malerhandwerk – Farbflächen, Linien und Wickeltechnik
 
-tags:   Maler,
-        Lackierer,
-        Handwerk,
-        Gestaltung,
-        Wickeltechnik,
-        Strichzieher,
-        Farbflächen,
-        Sockel
+tags:      Maler,
+           Lackierer,
+           Handwerk,
+           Gestaltung,
+           Wickeltechnik,
+           Strichzieher,
+           Farbflächen,
+           Sockel
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Gestaltungstechniken im Malerhandwerk 🎨

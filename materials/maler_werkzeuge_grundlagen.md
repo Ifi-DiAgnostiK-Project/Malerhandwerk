@@ -1,37 +1,37 @@
 <!--
+author:    DiAgnostiK-Coach
+email:     info@gkz-ev.de
+date:      2026-04-27
+version:   0.1.0
 
-author:   DiAgnostiK-Coach
-email:    info@gkz-ev.de
-version:  0.1.0
-language: de
-narrator: Deutsch Male
+narrator:  Deutsch Male
+language:  de
 
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_werkzeuge_grundlagen.md
-date: 2026-04-27
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_werkzeuge_grundlagen.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/malerrollen_fensterbrett.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/malerrollen_fensterbrett.jpg
 
 attribute: Logo-Bild: Pixabay, stux
 
-comment:  Lerneinheit – Werkzeuge im Maler- und Lackiererhandwerk: Pinsel, Rollen, Spachtel, Rakel, Bürsten und Strichzieher
+comment:   Lerneinheit – Werkzeuge im Maler- und Lackiererhandwerk:
+           Pinsel, Rollen, Spachtel, Rakel, Bürsten und Strichzieher
 
-title: Werkzeuge im Maler- und Lackiererhandwerk – Grundlagen
+title:     Werkzeuge im Maler- und Lackiererhandwerk – Grundlagen
 
-tags:   Maler,
-        Lackierer,
-        Handwerk,
-        Werkzeuge,
-        Pinsel,
-        Rolle,
-        Spachtel,
-        Grundlagen
+tags:      Maler,
+           Lackierer,
+           Handwerk,
+           Werkzeuge,
+           Pinsel,
+           Rolle,
+           Spachtel,
+           Grundlagen
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Werkzeuge im Maler- und Lackiererhandwerk 🧑‍🎨

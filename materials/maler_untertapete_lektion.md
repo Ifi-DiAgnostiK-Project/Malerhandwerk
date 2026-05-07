@@ -1,37 +1,36 @@
 <!--
+author:    DiAgnostiK-Coach
+email:     info@gkz-ev.de
+date:      2026-04-27
+version:   0.1.0
 
-author:   DiAgnostiK-Coach
-email:    info@gkz-ev.de
-version:  0.1.0
-language: de
-narrator: Deutsch Male
+narrator:  Deutsch Male
+language:  de
 
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_untertapete_lektion.md
-date: 2026-04-27
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_untertapete_lektion.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/tapete_eimer.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/tapete_eimer.jpg
 
 attribute: Logo-Bild: Pixabay, Vilkasss
 
-comment:  Lerneinheit – Untertapeten: Arten, Funktion und vollständiger Arbeitsablauf beim Verarbeiten von Makulatur und Glattvlies
+comment:   Lerneinheit – Untertapeten: Arten, Funktion und vollständiger Arbeitsablauf beim Verarbeiten von Makulatur und Glattvlies
 
-title: Untertapeten verarbeiten – Makulatur, Glattvlies und der richtige Arbeitsablauf
+title:     Untertapeten verarbeiten – Makulatur, Glattvlies und der richtige Arbeitsablauf
 
-tags:   Maler,
-        Lackierer,
-        Raumausstatter,
-        Tapezieren,
-        Untertapete,
-        Makulatur,
-        Glattvlies,
-        Arbeitsablauf
+tags:      Maler,
+           Lackierer,
+           Raumausstatter,
+           Tapezieren,
+           Untertapete,
+           Makulatur,
+           Glattvlies,
+           Arbeitsablauf
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Untertapeten verarbeiten 📋

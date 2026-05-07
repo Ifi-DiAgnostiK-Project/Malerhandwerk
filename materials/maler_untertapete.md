@@ -1,47 +1,44 @@
 <!--
+author:    Hilke Domsch; Florian Riefling
+email:     hilke.domsch@gkz-ev.de
+date:      2025-11-27
+version:   0.0.5
 
-author: Hilke Domsch; Florian Riefling
+narrator:  Deutsch Male
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_untertapete.md
 
-version: 0.0.5
-
-language: de
-
-narrator: Deutsch Male
-
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_untertapete.md
-date: 2025-11-27
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/tapete_eimer.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/tapete_eimer.jpg
 
 attribute: title image, by pixabay https://pixabay.com/de/photos/kleister-quast-leim-tapezieren-4964886/
 
-comment: Kurse G-ML-24, ML2-24, ML3-24, MLGI2-24, MLGI4-24, MLGI5-24, MB2-24, MB3-24, MB4-24, MGI2-04, MGI3-04, MGI4-04
+comment:   Kurse G-ML-24, ML2-24, ML3-24, MLGI2-24, MLGI4-24, MLGI5-24, MB2-24,
+           MB3-24, MB4-24, MGI2-04, MGI3-04, MGI4-04
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 
-title: Verarbeitung von Untertapeten - Maler-/Lackiererhandwerk & Raumausstattung
+title:     Verarbeitung von Untertapeten - Maler-/Lackiererhandwerk & Raumausstattung
 
-tags:  Maler,
-       Lackierer,
-       Handwerk,
-       Tapezieren,
-       Tapeten,
-       Untertapete,
-       Makulatur,
-       Altanstrich,
-       Spachteln,
-       Schleifen,
-       Kleister,
-       Aufmaß
-
+tags:      Maler,
+           Lackierer,
+           Handwerk,
+           Tapezieren,
+           Tapeten,
+           Untertapete,
+           Makulatur,
+           Altanstrich,
+           Spachteln,
+           Schleifen,
+           Kleister,
+           Aufmaß
 -->
 
 # Verarbeitung von Untertapeten

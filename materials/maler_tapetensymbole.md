@@ -1,37 +1,37 @@
 <!--
+author:    Hilke Domsch
+email:     hilke.domsch@gkz-ev.de
+version:   0.0.4
+date:      2026-01-19
 
-author:   Hilke Domsch
-email:    hilke.domsch@gkz-ev.de
-version:  0.0.4
-language: de
-narrator: Deutsch Female
+narrator:  Deutsch Female
+language:  de
 
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_tapetensymbole.md
-date: 2026-01-19
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_tapetensymbole.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/tapete_freepik_logo.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/tapete_freepik_logo.jpg
 attribute: title image designed by FreePik.com
-comment:  Kurs mit den Piktogrammen zur Kennzeichnung von Tapeten im Raumausstatter- und Maler-/Lackiererhandwerk
 
-title: Tapetenzeichen. Kennzeichen & Symbole
+comment:   Kurs mit den Piktogrammen zur Kennzeichnung von Tapeten im
+           Raumausstatter- und Maler-/Lackiererhandwerk
 
-link: ./style.css
+title:     Tapetenzeichen. Kennzeichen & Symbole
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Tapetensymbole/refs/heads/main/makros.md
+link:      style.css
 
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Tapetensymbole/refs/heads/main/makros.md
 
-tags:   Tapezieren,
-        Tapeten,
-        Maler,
-        Lackierer,
-        Raumausstatter
-
+tags:      Tapezieren,
+           Tapeten,
+           Maler,
+           Lackierer,
+           Raumausstatter
 -->
 
 # Tapetenzeichen - Kennzeichnung und Symbole

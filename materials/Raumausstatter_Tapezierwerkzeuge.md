@@ -1,40 +1,38 @@
 <!--
+author:    Hilke Domsch
+email:     hilke.domsch@gkz-ev.de
+date:      2026-01-28
+version:   0.1.4
 
-author:   Hilke Domsch
-email:    hilke.domsch@gkz-ev.de
-version:  0.1.4
-language: de
-narrator: Deutsch Male
+narrator:  Deutsch Male
+language:  de
 
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/Raumausstatter_Tapezierwerkzeuge.md
-date: 2026-01-28
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/Raumausstatter_Tapezierwerkzeuge.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/maler_werkzeug_tapetenkurs.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/maler_werkzeug_tapetenkurs.jpg
 
-comment:  Typische Tapezierwerkzeuge - Raumausstatter: GR-06 | Maler/Lackiererhandwerk
+comment:   Typische Tapezierwerkzeuge - Raumausstatter: GR-06 | Maler/Lackiererhandwerk
 
-title: Tapezierwerkzeuge - Quiz für Interessierte, Neugierige & Auszubildende
+title:     Tapezierwerkzeuge - Quiz für Interessierte, Neugierige & Auszubildende
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Tapetensymbole/refs/heads/main/makros.md
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Tapetensymbole/refs/heads/main/makros.md
 
-
-tags:  Tapezieren,
-       Werkzeuge,
-       Tapezierwerkzeuge,
-       Raumausstatter,
-       Maler,
-       Lackierer,
-       Raumgestaltung,
-       Vorrichten
-
+tags:      Tapezieren,
+           Werkzeuge,
+           Tapezierwerkzeuge,
+           Raumausstatter,
+           Maler,
+           Lackierer,
+           Raumgestaltung,
+           Vorrichten
 -->
 
 # Tapezierwerkzeuge - Überblickswissen

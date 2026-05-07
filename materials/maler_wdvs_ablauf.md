@@ -1,38 +1,37 @@
 <!--
+author:    DiAgnostiK-Coach
+email:     info@gkz-ev.de
+date:      2026-04-27
+version:   0.1.0
 
-author:   DiAgnostiK-Coach
-email:    info@gkz-ev.de
-version:  0.1.0
-language: de
-narrator: Deutsch Male
+narrator:  Deutsch Male
+language:  de
 
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_wdvs_ablauf.md
-date: 2026-04-27
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_wdvs_ablauf.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/maler_gray.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/maler_gray.jpg
 
 attribute: Logo-Bild: Pixabay
 
-comment:  Lerneinheit – WDVS Arbeitsablauf: Untergrundvorbereitung, Sockelanschluss, Dämmplatten, Armierung und Beschichtung
+comment:   Lerneinheit – WDVS Arbeitsablauf: Untergrundvorbereitung, Sockelanschluss, Dämmplatten, Armierung und Beschichtung
 
-title: WDVS Arbeitsablauf – Von der Untergrundvorbereitung bis zur Schlussbeschichtung
+title:     WDVS Arbeitsablauf – Von der Untergrundvorbereitung bis zur Schlussbeschichtung
 
-tags:   Maler,
-        Lackierer,
-        WDVS,
-        Wärmedämmung,
-        Fassade,
-        Arbeitsablauf,
-        Sockelschiene,
-        Armierung,
-        MGI
+tags:      Maler,
+           Lackierer,
+           WDVS,
+           Wärmedämmung,
+           Fassade,
+           Arbeitsablauf,
+           Sockelschiene,
+           Armierung,
+           MGI
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # WDVS Arbeitsablauf 🔧

@@ -1,37 +1,37 @@
 <!--
+author:    DiAgnostiK-Coach
+email:     info@gkz-ev.de
+version:   0.1.0
+date:      2026-04-27
 
-author:   DiAgnostiK-Coach
-email:    info@gkz-ev.de
-version:  0.1.0
-language: de
-narrator: Deutsch Male
+narrator:  Deutsch Male
+language:  de
 
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_tapetensymbole_lektion.md
-date: 2026-04-27
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_tapetensymbole_lektion.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/tapete_tapetensymbole_closeup.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/tapete_tapetensymbole_closeup.jpg
 
 attribute: Logo-Bild: Deutsches Tapeten-Institut, tapeten.de
 
-comment:  Lerneinheit – Tapetenkennzeichnung nach DIN EN 235: Normsymbole, Anfertigungsnummer und Bedeutung der Symbole
+comment:   Lerneinheit – Tapetenkennzeichnung nach DIN EN 235:
+           Normsymbole, Anfertigungsnummer und Bedeutung der Symbole
 
-title: Tapetenkennzeichnung nach DIN EN 235 – Was bedeuten die Symbole auf der Tapetenrolle?
+title:     Tapetenkennzeichnung nach DIN EN 235 – Was bedeuten die Symbole auf der Tapetenrolle?
 
-tags:   Maler,
-        Lackierer,
-        Raumausstatter,
-        Tapezieren,
-        Tapeten,
-        Tapetensymbole,
-        DIN EN 235
+tags:      Maler,
+           Lackierer,
+           Raumausstatter,
+           Tapezieren,
+           Tapeten,
+           Tapetensymbole,
+           DIN EN 235
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Tapetensymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Tapetensymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Tapetenkennzeichnung nach DIN EN 235 🏷️

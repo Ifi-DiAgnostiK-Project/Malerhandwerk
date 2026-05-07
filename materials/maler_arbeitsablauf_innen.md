@@ -1,37 +1,37 @@
 <!--
+author:    DiAgnostiK-Coach
+email:     info@gkz-ev.de
+version:   0.1.0
+date:      2026-04-27
 
-author:   DiAgnostiK-Coach
-email:    info@gkz-ev.de
-version:  0.1.0
-language: de
-narrator: Deutsch Male
+narrator:  Deutsch Male
+language:  de
 
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_arbeitsablauf_innen.md
-date: 2026-04-27
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_arbeitsablauf_innen.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/maler_mini_holzwand.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/maler_mini_holzwand.jpg
 
 attribute: Logo-Bild: Pixabay, Ralphs-Fotos
 
-comment:  Lerneinheit – Arbeitsabläufe bei der Wand- und Deckengestaltung: von der Abklebung bis zur Schlussbeschichtung
+comment:   Lerneinheit – Arbeitsabläufe bei der Wand- und Deckengestaltung:
+           von der Abklebung bis zur Schlussbeschichtung
 
-title: Arbeitsablauf Wand- und Deckengestaltung – Schritt für Schritt zum sauberen Ergebnis
+title:     Arbeitsablauf Wand- und Deckengestaltung – Schritt für Schritt zum sauberen Ergebnis
 
-tags:   Maler,
-        Lackierer,
-        Handwerk,
-        Arbeitsablauf,
-        Wandgestaltung,
-        Deckengestaltung,
-        Tapezieren,
-        Grundierung
+tags:      Maler,
+           Lackierer,
+           Handwerk,
+           Arbeitsablauf,
+           Wandgestaltung,
+           Deckengestaltung,
+           Tapezieren,
+           Grundierung
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Arbeitsablauf Wand- und Deckengestaltung 📋

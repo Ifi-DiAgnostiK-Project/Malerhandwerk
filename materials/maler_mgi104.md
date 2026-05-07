@@ -1,59 +1,55 @@
 <!--
+author:    Hilke Domsch; Florian Riefling
+email:     hilke.domsch@gkz-ev.de
+version:   0.1.2
+date:      2025-12-11
 
-author: Hilke Domsch; Florian Riefling
+narrator:  Deutsch Female
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_mgi104.md
 
-version: 0.1.2
-
-language: de
-
-narrator: Deutsch Female
-
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_mgi104.md
-date: 2025-12-11
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/bauwerk_schichten.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/bauwerk_schichten.jpg
 
 attribute: https://de.freepik.com/fotos-kostenlos/im-modernen-stil-haus-im-bau_997935.htm#fromView=keyword&page=2&position=46&uuid=e3d1e428-80f1-4fcc-b9e4-1cd4e3b5de48&query=Waermedaemmung
 
-comment:  Verarbeitung von Wärme-Dämm-Verbund-Systemen (Maler- und Lackiererhandwerk)
+comment:   Verarbeitung von Wärme-Dämm-Verbund-Systemen (Maler- und Lackiererhandwerk)
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Holzarten/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
 
-title: MGI 1-04 -- Gestalten und in Stand setzen einer Fassade
+title:     MGI 1-04 -- Gestalten und in Stand setzen einer Fassade
 
-tags: Maler,
-      Lackierer,
-      Handwerk,
-      Wärmedämmung,
-      Verbundsystem,
-      Wärme-Dämm-Verbundsystem,
-      Armierungsmasse,
-      Strukturputz,
-      Fassade
+tags:      Maler,
+           Lackierer,
+           Handwerk,
+           Wärmedämmung,
+           Verbundsystem,
+           Wärme-Dämm-Verbundsystem,
+           Armierungsmasse,
+           Strukturputz,
+           Fassade
 
 @style
-    div.pool-container img[style] {
-        width:1000px !important;
-        height: 100% !important;
-        max-height: 100% !important;
-        max-width: 96% !important;
-        object-fit: contain !important;
-        flex: 4;
-    }
-    div.pool-container {
-        padding-left: 2px !important;
-    }
+div.pool-container img[style] {
+    width:1000px !important;
+    height: 100% !important;
+    max-height: 100% !important;
+    max-width: 96% !important;
+    object-fit: contain !important;
+    flex: 4;
+}
+div.pool-container {
+    padding-left: 2px !important;
+}
 @end
-
 -->
 
 # MGI 1-04: Verarbeitung von Wärme-Dämm-Verbund-Systemen (WDVS) 🧑‍🎨

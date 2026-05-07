@@ -1,38 +1,37 @@
 <!--
+author:    DiAgnostiK-Coach
+email:     info@gkz-ev.de
+version:   0.1.0
+date:      2026-04-27
 
-author:   DiAgnostiK-Coach
-email:    info@gkz-ev.de
-version:  0.1.0
-language: de
-narrator: Deutsch Male
+language:  de
+narrator:  Deutsch Male
 
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_wdvs_berechnung.md
-date: 2026-04-27
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_wdvs_berechnung.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/haus_klimaqualitaet.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/haus_klimaqualitaet.jpg
 
 attribute: Logo-Bild: Pixabay
 
-comment:  Lerneinheit – WDVS Materialbedarf: Flächenberechnung, Abzüge für Fenster und Türen, Materialbedarf nach Herstellerangaben
+comment:   Lerneinheit – WDVS Materialbedarf: Flächenberechnung, Abzüge für Fenster und Türen, Materialbedarf nach Herstellerangaben
 
-title: WDVS Materialbedarf berechnen – Flächen, Abzüge und Mengen ermitteln
+title:     WDVS Materialbedarf berechnen – Flächen, Abzüge und Mengen ermitteln
 
-tags:   Maler,
-        Lackierer,
-        WDVS,
-        Fassade,
-        Mengenermittlung,
-        Flächenberechnung,
-        Materialbedarf,
-        MGI,
-        Mathe
+tags:      Maler,
+           Lackierer,
+           WDVS,
+           Fassade,
+           Mengenermittlung,
+           Flächenberechnung,
+           Materialbedarf,
+           MGI,
+           Mathe
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # WDVS – Materialbedarf berechnen 🔢

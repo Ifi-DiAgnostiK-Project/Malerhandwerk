@@ -1,36 +1,35 @@
 <!--
+author:    DiAgnostiK-Coach
+email:     info@gkz-ev.de
+date:      2026-04-27
+version:   0.1.0
 
-author:   DiAgnostiK-Coach
-email:    info@gkz-ev.de
-version:  0.1.0
-language: de
-narrator: Deutsch Male
+narrator:  Deutsch Male
+language:  de
 
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_wdvs_aufbau.md
-date: 2026-04-27
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_wdvs_aufbau.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/bauwerk_schichten.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/bauwerk_schichten.jpg
 
 attribute: Logo-Bild: Pixabay
 
-comment:  Lerneinheit – WDVS Aufbau: Die 7 Schichten eines Wärmedämm-Verbundsystems, ihre Materialien und Funktionen
+comment:   Lerneinheit – WDVS Aufbau: Die 7 Schichten eines Wärmedämm-Verbundsystems, ihre Materialien und Funktionen
 
-title: WDVS Aufbau – Die 7 Schichten des Wärmedämm-Verbundsystems
+title:     WDVS Aufbau – Die 7 Schichten des Wärmedämm-Verbundsystems
 
-tags:   Maler,
-        Lackierer,
-        WDVS,
-        Wärmedämmung,
-        Fassade,
-        Schichtenaufbau,
-        MGI
+tags:      Maler,
+           Lackierer,
+           WDVS,
+           Wärmedämmung,
+           Fassade,
+           Schichtenaufbau,
+           MGI
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # WDVS – Aufbau und Schichten 🏗️

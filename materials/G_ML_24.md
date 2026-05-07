@@ -1,14 +1,13 @@
 <!--
-
 author:    Hilke Domsch
 email:     hilke.domsch@gkz-ev.de
 version:   0.0.11
+date:      2025-08-01
 
 language:  de
 narrator:  Deutsch Male
 
 edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/G_ML_24.md
-date:      2025-08-01
 
 title:     Grundkurs Maler/Lackierer G-ML-24
 comment:   Grundkurs Maler/Lackierer
@@ -21,12 +20,11 @@ logo:      ../assets/img/farben.jpg
 
 attribute: Title Image by Pixabay, Darkmoon Art
 
-link: ./style.css
+link:      style.css
 import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
            https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
            https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
            https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
 -->
 
 # Grundstufe Maler- und Lackiererhandwerk G-ML-24  🧑‍🎨

@@ -1,36 +1,37 @@
 <!--
+author:    DiAgnostiK-Coach
+email:     info@gkz-ev.de
+date:      2026-04-27
+version:   0.1.0
 
-author:   DiAgnostiK-Coach
-email:    info@gkz-ev.de
-version:  0.1.0
-language: de
-narrator: Deutsch Male
+narrator:  Deutsch Male
+language:  de
 
-edit: https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_untergrundpruefung.md
-date: 2026-04-27
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Malerhandwerk/blob/main/materials/maler_untergrundpruefung.md
 
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/putz.jpg
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/putz.jpg
 
 attribute: Logo-Bild: Pixabay, geralt
 
-comment:  Lerneinheit – Untergründe prüfen und beurteilen: Beschaffenheit, Tragfähigkeit, Saugfähigkeit, Haftfestigkeit, Feuchtigkeit und Prüfgeräte
+comment:   Lerneinheit – Untergründe prüfen und beurteilen: Beschaffenheit,
+           Tragfähigkeit, Saugfähigkeit, Haftfestigkeit, Feuchtigkeit und
+           Prüfgeräte
 
-title: Untergrundprüfung im Malerhandwerk – Bevor Sie den Pinsel ansetzen
+title:     Untergrundprüfung im Malerhandwerk – Bevor Sie den Pinsel ansetzen
 
-tags:   Maler,
-        Lackierer,
-        Handwerk,
-        Untergrundprüfung,
-        Untergrund,
-        Beschichtung,
-        Tapezieren
+tags:      Maler,
+           Lackierer,
+           Handwerk,
+           Untergrundprüfung,
+           Untergrund,
+           Beschichtung,
+           Tapezieren
 
-link: ./style.css
+link:      style.css
 
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Untergrundprüfung im Malerhandwerk 🔍
