@@ -32,7 +32,7 @@ navbar:
       active: true
       url: https://ifi-diagnostik-project.github.io/Malerhandwerk
     - label: Raumaustattung
-      url: https://ifi-diagnostik-project.github.io/Raumausstatter
+      url: https://ifi-diagnostik-project.github.io/Raumausstattung
     - label: Belehrungen
       url: https://ifi-diagnostik-project.github.io/Belehrung
     - label: Arbeits- und Gesundheitsschutz
