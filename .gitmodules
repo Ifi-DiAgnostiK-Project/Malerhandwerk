@@ -1,0 +1,45 @@
+[submodule "materials/malerhandwerk-werkzeuge-grundlagen"]
+	path = materials/malerhandwerk-werkzeuge-grundlagen
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-werkzeuge-grundlagen.git
+[submodule "materials/malerhandwerk-tapezierwerkzeuge-lernlektion"]
+	path = materials/malerhandwerk-tapezierwerkzeuge-lernlektion
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-tapezierwerkzeuge-lernlektion.git
+[submodule "materials/malerhandwerk-grundkurs-g-ml-24"]
+	path = materials/malerhandwerk-grundkurs-g-ml-24
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-grundkurs-g-ml-24.git
+[submodule "materials/malerhandwerk-raumausstatter-tapezierwerkzeuge"]
+	path = materials/malerhandwerk-raumausstatter-tapezierwerkzeuge
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-raumausstatter-tapezierwerkzeuge.git
+[submodule "materials/malerhandwerk-untergrundpruefung"]
+	path = materials/malerhandwerk-untergrundpruefung
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-untergrundpruefung.git
+[submodule "materials/malerhandwerk-arbeitsablauf-innen"]
+	path = materials/malerhandwerk-arbeitsablauf-innen
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-arbeitsablauf-innen.git
+[submodule "materials/malerhandwerk-gestaltungstechniken"]
+	path = materials/malerhandwerk-gestaltungstechniken
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-gestaltungstechniken.git
+[submodule "materials/malerhandwerk-tapetensymbole-lernlektion"]
+	path = materials/malerhandwerk-tapetensymbole-lernlektion
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-tapetensymbole-lernlektion.git
+[submodule "materials/malerhandwerk-tapetensymbole-quiz"]
+	path = materials/malerhandwerk-tapetensymbole-quiz
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-tapetensymbole-quiz.git
+[submodule "materials/malerhandwerk-untertapete-lernlektion"]
+	path = materials/malerhandwerk-untertapete-lernlektion
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-untertapete-lernlektion.git
+[submodule "materials/malerhandwerk-untertapete-quiz"]
+	path = materials/malerhandwerk-untertapete-quiz
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-untertapete-quiz.git
+[submodule "materials/malerhandwerk-wdvs-aufbau"]
+	path = materials/malerhandwerk-wdvs-aufbau
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-wdvs-aufbau.git
+[submodule "materials/malerhandwerk-wdvs-ablauf"]
+	path = materials/malerhandwerk-wdvs-ablauf
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-wdvs-ablauf.git
+[submodule "materials/malerhandwerk-wdvs-berechnung"]
+	path = materials/malerhandwerk-wdvs-berechnung
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-wdvs-berechnung.git
+[submodule "materials/malerhandwerk-mgi-1-04-wdvs"]
+	path = materials/malerhandwerk-mgi-1-04-wdvs
+	url = https://github.com/Ifi-DiAgnostiK-Project/malerhandwerk-mgi-1-04-wdvs.git

@@ -88,26 +88,26 @@ collection:
 
 
   # Modul 1: Werkzeugkunde
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_werkzeuge_grundlagen.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_tapezierwerkzeuge_lektion.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/G_ML_24.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/Raumausstatter_Tapezierwerkzeuge.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-werkzeuge-grundlagen/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-tapezierwerkzeuge-lernlektion/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-grundkurs-g-ml-24/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-raumausstatter-tapezierwerkzeuge/refs/heads/main/README.md
 
   # Modul 2: Untergrundprüfung
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_untergrundpruefung.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-untergrundpruefung/refs/heads/main/README.md
 
   # Modul 3: Arbeitsabläufe Innenarbeiten
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_arbeitsablauf_innen.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_gestaltungstechniken.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-arbeitsablauf-innen/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-gestaltungstechniken/refs/heads/main/README.md
 
   # Modul 4: Tapezieren
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_tapetensymbole_lektion.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_tapetensymbole.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_untertapete_lektion.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_untertapete.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-tapetensymbole-lernlektion/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-tapetensymbole-quiz/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-untertapete-lernlektion/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-untertapete-quiz/refs/heads/main/README.md
 
   # Modul 5: WDVS
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_wdvs_aufbau.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_wdvs_ablauf.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_wdvs_berechnung.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Malerhandwerk/refs/heads/main/materials/maler_mgi104.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-wdvs-aufbau/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-wdvs-ablauf/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-wdvs-berechnung/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/malerhandwerk-mgi-1-04-wdvs/refs/heads/main/README.md
